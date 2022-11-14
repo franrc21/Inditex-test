@@ -1,0 +1,13 @@
+Creamos el usuario franrc con los siguientes datos:
+[{'id': 0, 'username': 'franrc', 'firstName': 'Francisco', 'lastName': 'Romero', 'email': 'correo@correo.com', 'password': '1234', 'phone': '666666666', 'userStatus': 0}]
+
+La información obtenida sobre el usuario franrc es:
+{'id': 10054, 'username': 'franrc', 'firstName': 'Francisco', 'lastName': 'Romero', 'email': 'correo@correo.com', 'password': '1234', 'phone': '666666666', 'userStatus': 0}
+
+
+Lista de mascotas vendidas:
+{93: 'xiaogou', 3: 'doggie', 6: 'doggie'}
+
+La lista de nombres de mascotas y el número de veces que se repiten los nombres es:
+{'xiaogou': 1, 'doggie': 2}
+
